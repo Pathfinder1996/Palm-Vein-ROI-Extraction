@@ -62,5 +62,19 @@
 
 ## 使用方法
 
-下載後直接執行 `train.ipynb` 
+下載，替換為想測試的圖片後，直接執行 `roi_extraction.ipynb` 
+
+---
+
+## Requirements
+
+python==3.9.2
+
+opencv-python==4.5.3.56
+
+numpy==1.26.4
+
+scipy==1.12.0
+
+matplotlib==3.8.0
 
