@@ -62,7 +62,7 @@
 
 ## 使用方法
 
-下載，替換為想測試的圖片後，直接執行 `roi_extraction.ipynb` 
+替換為想測試的圖片後，直接執行 `roi_extraction.ipynb` 
 
 ---
 
