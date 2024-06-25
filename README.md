@@ -3,7 +3,7 @@
 ## 簡介
 程式練習...
 
-參考資料
+參考資料如下
 
 1.IEEE會議論文。[An effectual method for extraction of ROI of palmprints](https://ieeexplore.ieee.org/document/6398207)
 
@@ -14,3 +14,4 @@
 ---
 
 ## 提取ROI步驟
+
